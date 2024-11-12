@@ -17,6 +17,10 @@
 - Windows 11
 - Python 3.11.1
 
+## Anacondaのインストール方法
+
+（準備中）
+
 ## Anaconda Navigatorを使用しないセットアップ方法
 
 
