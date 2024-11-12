@@ -8,6 +8,7 @@
 ## フォルダ構成
 
 - `exercise` ……章末練習問題の解答例のファイルです。
+- `images` ……このページで表示している画像ファイルです。
 - `notebook` ……本文の各章で使用するファイルです。
 
 ## 環境
@@ -19,7 +20,22 @@
 
 ## Anacondaのインストール方法
 
-（準備中）
+1. Anacondaの公式サイトの[ダウンロードページ](https://www.anaconda.com/download/success)へアクセス
+
+    ![alt text](images/anaconda1.png)
+
+1. 緑色のダウンロードボタンをクリックして、実行ファイル（exe）をダウンロード
+
+    ![alt text](images/anaconda2.png)
+
+1. ダウンロードしたファイルをダブルクリックするとセットアップ画面が立ち上がる
+
+    ![alt text](images/anaconda3.png)
+
+1. 各画面で`next`をクリックしてインストール
+
+    ![alt text](images/anaconda4.png)
+
 
 ## Anaconda Navigatorを使用しないセットアップ方法
 
