@@ -61,7 +61,12 @@ python -m pip install japanize_matplotlib jupyter matplotlib mecab-python3 netwo
 python -m unidic download
 ```
 
+## 既知の問題
 
+#### 第10章 演習問題 問3
+
+2025年5月時点で最新版のライブラリをインストールした環境でコードを実行すると、出力結果が `np.float64(-33.55962557420356)` となります。
+-33ですので、デザイン変更の効果はあまり大きくはないようです。
 
 ## 免責事項
 
